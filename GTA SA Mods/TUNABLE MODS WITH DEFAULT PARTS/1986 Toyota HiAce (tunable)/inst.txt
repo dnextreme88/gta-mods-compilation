@@ -1,0 +1,161 @@
+---------------------------------------------------
+===================================================
+============ INSTALLATION INSTRUCTIONS ============
+===================================================
+---------------------------------------------------
+If you already know how to install the car, open readme.txt!
+
+**NOTE**: This guide uses "stallion" as an example!  The
+car you should replace is the "recommended car to replace"
+in the readme.txt!!!!!!!!
+
+---------------------------------------------------
+===================================================
+=============== TABLE OF CONTENTS =================
+===================================================
+---------------------------------------------------
+
+1. Installation instructions (for San Andreas)
+  1.1. Installing mesh and textures (.dff and .txd)
+  1.2. Installing car settings
+    1.2.1. handling.cfg
+    1.2.2. vehicles.ide
+    1.2.3. carcols.dat
+    1.2.4. carmods.dat
+2. Stuff
+
+
+
+---------------------------------------------------
+===================================================
+========== 1. Installation instructions ===========
+===================================================
+---------------------------------------------------
+
+You need these programs:
+
+- Notepad (or any other text editor)
+
+- IMG Tool (v.2.0 or higher)
+  you can find it from any major GTA 3/VC site
+  (for example: www.theborggaming.com)
+
+
+NOTE:
+REMEMBER TO BACK UP THE ORIGINAL FILES BEFORE INSTALLATION!
+And remember to uncheck "read only" for the entire GTA VC
+folder and every file in it.
+
+
+In this little guide I'm using stallion as an example.
+The recommended car to replace is in the readme.txd!!!!!!
+
+You don't have to stick with the recommendation; you can
+replace pretty much any car you want!  It's recommended to
+replace a car which is at least the same type, though
+(4-door, 2-door...)
+
+
+==================================================
+1.1. Installing mesh and textures (.dff and .txd):
+==================================================
+
+1. Open IMG Tool.  Open gta3.img with it.
+   (File > Open)
+   The gta3.img is located in "GTA SA/models"
+
+2. Back up stallion.dff and stallion.txd by extracting them.
+   (Edit > Find / Find Next)
+   (Commands > Extract)
+   Then delete stallion.dff and stallion.txd from the .img
+   (Commands > Delete)
+
+3. Add stallion.dff and stallion.txd from the folder where
+   you have unzipped the zip file. If the car has additional
+   paintjobs (in this case, stallion1.txd, stallion2.txd, etc)
+   add them, too.
+   (Commands > Add)
+
+4. Rebuild the archive.
+   (Commands > Rebuild Archive)
+
+
+Done!
+
+=============================
+1.2. Installing car settings:
+=============================
+
+The values for these are in the readme.txt!!!!
+
+Remember to back up handling.cfg, vehicles.ide, carcols.dat and
+carmods.dat!!!!!  They are in "GTA SA/data"
+
+-------------------
+1.2.1. handling.cfg
+-------------------
+
+Open handling.cfg in Notepad.  Search for stallion.  Replace the
+line of numbers after "STALLION" with the line in the readme.txt.
+Be careful not to overwrite the next car's values!
+
+
+-------------------
+1.2.2. vehicles.ide
+-------------------
+
+Open vehicles.ide in Notepad and search for stallion.  Usually you
+want to change only the wheel sizes and car modability.  They are the
+four last values in the line (usually something like -1, 0.7, 0.7, 0).
+The first value of these four tells you how the game determines the
+wheel size of the car.  The second is for front wheels and the third
+is for rear wheels.  The last number determines if you can mod your
+car and if you can, where. I usually just put something like
+-1, 0.75, 0.75, 0 in the readme.txt.
+
+So just change the original 4 last numbers to the ones I give in the
+readme.txt.
+
+
+------------------
+1.2.3. carcols.dat
+------------------
+
+Open carcols.dat in Notepad.  Search for stallion.  Replace the
+numbers (just numbers, leave the car name untouched) with the ones
+in the readme.txt.
+
+
+------------------
+1.2.4. carmods.dat
+------------------
+
+This is basically just a list of the available car mods for the cars.
+Open carmods.dat in Notepad and search for stallion (I bet you guessed
+this one already :P).  Then just replace everything after "stallion,"
+with the line given in the readme.txt.
+
+
+
+
+Done!
+Now you have everything installed!  Just run GTASA and enjoy!  ;)
+
+
+---------------------------------------------------
+===================================================
+=================== 2. Stuff ======================
+===================================================
+---------------------------------------------------
+
+You may upload this to your site if you want but
+only if you don't chance the contents of the zip 
+file in any way!  And please do send me an e-mail
+if you add this to your site!  I insist!  :)
+
+If you want to 
+ - modify and release the modified car
+ - convert the car to another game
+ - make the car a part of some mod
+e-mail me and ask for permission first!  I might not
+answer in the same day or even in the same week, though.
