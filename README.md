@@ -8,3 +8,7 @@ Due to Rockstar Games' policy on modding, scripts won't run unless the game vers
 
 * GTA SA: V1.0
 * GTA IV: V1.0.4.0
+
+List of some GTA SA mods that don't work (not included on this repo):
+* Ambient Taxi (has bugs if CLEO+ is installed)
+* Realistic Beach (crashes when getting near Santa Maria Beach on Los Santos)
