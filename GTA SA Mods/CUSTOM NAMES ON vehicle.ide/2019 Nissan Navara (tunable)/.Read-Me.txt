@@ -1,0 +1,38 @@
+Visit: https://central-mods.blogspot.com
+
+Credits:
+- Author Base Model: Stabil
+- Conversion, details: RetrKill0
+- wheels: Ivys Souza
+
+
+Optional: THIS VEHICLE NEED VEHFUNCS MOD: https://www.mixmods.com.br/2018/01/VehFuncs.html
+
+DOWNLOAD SKIN HERE: http: //bit.ly/2BPWnX5
+
+CASE EDIT THE SKINS, DO NOT UPLOAD THE CAR AND YES PLACE YOUR TXD TOGETHER WITH THE MOD LINK
+
+-------------------------------------------------- -------------
+
+Installation:
+Just copy the folder to modloader
+
+Manual installation, lines already in the folder:
+
+carcols.dat
+bobcat, 1,0, 0,0, 3,3, 79,79, 44,0, 3,0, 79,0, 45,0, 6,0
+
+vehicle.dat
+422, 	bobcat, 	bobcat, 	car, 		BOBCAT, 	BOBCAT, 	null,	normal, 	7,	0,	0,		-1, 0.92, 0.92,		-1
+
+handling.cfg
+bobcat		3500.0	11156.2	2.2	0.0	0.0	-0.2	80	0.80	0.80	0.52	5	170.0	22.0	5.0	4	P	8.5	0.50	0	30.0	0.7	0.15	0.0	0.34	-0.20	0.5	0.5	0.44	0.30	40000	00004040	500000	0	1	0
+
+bobcat, nto_b_l, nto_b_s, nto_b_tw, bnt_b_sc_m, bnt_b_sc_l, bnt_b_sc_p_m, bnt_b_sc_p_l, lgt_b_rspt, lgt_b_sspt, rf_b_sc_r, spl_b_bab_m, spl_b_bar_l, spl_b_bbb_m, spl_b_mar_m, spl_b_bbr_l, spl_b_mab_m, spl_b_bar_m, spl_b_bbr_m, wg_l_b_ssk
+-------------------------------------------------- -------------
+
+See also:
+https://www.youtube.com/fjbgames
+https://www.facebook.com/centrmods/
+
+get to know the GTA Brasil project: https://www.mixmods.com.br/2018/09/TC-GTA-Brasil.html

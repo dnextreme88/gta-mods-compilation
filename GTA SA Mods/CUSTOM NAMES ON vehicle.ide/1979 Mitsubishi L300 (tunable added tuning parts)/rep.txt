@@ -1,0 +1,14 @@
+vehicles.ide
+499, 	benson, 	benson, 	car, 		BENSON,		COURIER, 	null,	worker, 	5, 	0,	3ff4,		-1, 0.6, 0.6,		-1
+413, 	pony,		pony,		car, 		PONY, 		COURIER, 	van,	worker, 	5, 	0,	1f10,		-1, 0.6, 0.6,		-1
+
+handling.cfg
+BENSON      3500.0    14000.0   4.0   0.0 -0.3  0.1  80  0.55 0.85 0.46 	5 140.0 18.0 20.0 R D 	4.5   0.40 0  20.0  	0.9  0.11  1.0   0.20 -0.10 0.6   0.5		0.46 0.53 22000 	4080		0			0  3	0
+PONY       4000.0    14000.7   3.0   0.0 0.0  0.0  80  0.55 0.90 0.50 	5 140.0 18.0 20.0 R D 	4.5   0.60 0  20.0  	0.9  0.11  1.0   0.20 -0.10 0.55  0.5		0.46 0.53 22000 	4001		0			0  3	13
+
+carcols.dat
+benson,  14,14, 38,24, 45,24, 102,24, 33,24, 14,24
+pony,  14,14
+
+carmods.dat (added by me 8/10/22)
+pony, nto_b_l, nto_b_s, nto_b_tw, lgt_b_rspt, lgt_b_sspt, rf_b_sc_r

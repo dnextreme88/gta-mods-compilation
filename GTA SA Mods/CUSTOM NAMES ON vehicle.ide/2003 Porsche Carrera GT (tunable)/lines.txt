@@ -1,0 +1,11 @@
+handling.cfg
+COMET         1400.0 2200.0 2.2 0.0 0.1 -0.2 75 0.70 0.9 0.5 5 220.0 30.0 10.0 R P 11.0 0.45  1  30.0  1.2  0.15  3.0  0.23  -0.04  0.5  0.3  0.25  0.60  35000  40002000  1   0    0   0
+
+vehicles.ide 
+480,	comet,		comet,		car, 		COMET,	 	COMET, 		null,	executive, 	5, 	0,	2ff0,		-1, 0.75, 0.75,		0
+
+carcols.dat
+comet, 0,1, 36,1, 6,1, 67,1, 42,1, 15,1
+
+carmods.dat
+comet, bnt_b_sc_m, bnt_b_sc_p_m, bnt_b_sc_l, bntl_b_sq, exh_b_m, exh_b_l, exh_b_s, nto_b_l, nto_b_s, nto_b_tw
