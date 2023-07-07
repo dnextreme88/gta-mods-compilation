@@ -1,0 +1,23 @@
+Visit: https://central-mods.blogspot.com
+
+Credits:
+- Unknown author
+- Corrections and issues: RetrKill0
+
+Difference of TC Version GTA Brazil 0.2.1018
+
+- Fixed env values
+- Adjusted + the shadow
+
+Installation:
+Just copy a folder to modloader (already includes a line below)
+
+Manual installation use this line
+-------------------------------------------------- -----------------------------
+
+carcols.dat:
+infernus, 6,6, 103,103, 23,23, 86,86, 0,0, 1,1, 3,3, 24,24
+
+-------------------------------------------------- -----------------------------
+
+know the project: https://www.mixmods.com.br/2018/09/TC-GTA-Brasil.html

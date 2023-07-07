@@ -1,0 +1,38 @@
+# Nissan Silvia S-15 Tunable from Juiced 2 HIN #
+
+converted & edit by MaTheuS-340
+e-mail: matheus.trancer@gmail.com
+myblog: mttrance.blogspot.com
+
+4 kits
+2 models S15 Stock and Light Tuned
+
+
+
+...\data\handling
+
+
+tune
+1240.0 3500.0 2.2 0.0 0.3 -0.15 75 0.65 0.9 0.5 5 200.0 28.0 5.0 R P 8.0 0.5 0 35.0 1.0 0.20 0.0 0.28 -0.10 0.5 0.3 1.25 0.60 35000 40000804 01400001 1 1 1
+
+
+drift
+1080.0 4198.3 2.0 0.0 0.1 -0.5 75 0.70 0.80 0.47 5 350.0 55.0 5.0 R P 8.0 0.45 1 55.0 1.4 0.15 0.0 0.28 -0.05 0.5 0.3 1.25 0.10 35000 c0000000 01680002 1 1 1
+
+
+...data\vehicles.ide
+
+
+-1, 0.72, 0.72,		1
+
+
+...\data\carcols.dat
+
+96,1, 0,1, 67,1, 6,1, 3,1, 1,1, 101,101
+
+
+cores opcionais
+
+200,4,0				# 3 hot red				red
+244,209,18			# 6 yellow silvia			yellow
+12,12,125			# 101 dark blue				dark

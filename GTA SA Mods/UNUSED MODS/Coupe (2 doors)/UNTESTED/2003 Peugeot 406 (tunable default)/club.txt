@@ -1,0 +1,8 @@
+CLUB	     1400.0    3000.0   2.8    0.0 0.0  0.0  80  0.75 0.90 0.49  	5 180.0 18.0 10.0 F P 	11.0  0.45 0 30.0  	1.7  0.1   0.0   0.28 -0.12 0.5  0.0		0.25 0.50 11000 	0		C00000		1  1	0
+
+club, 0,0, 1,1, 15,15, 33,33, 3,3, 36,36, 79,79, 66,66
+
+589,	club, 		club, 		car, 		CLUB,	 	CLUB, 		null,	poorfamily, 	10,	0,	0,		-1, 0.74, 0.74,		0
+
+carmods
+club, nto_b_l, nto_b_s, nto_b_tw, bnt_b_sc_m, bnt_b_sc_l, bntl_b_ov, bntl_b_sq, exh_b_l, exh_b_m, exh_b_t, spl_b_mar_m, spl_b_bab_m, spl_b_bar_m, spl_b_mab_m, spl_b_bbr_m, spl_b_bbb_m, wg_l_b_ssk

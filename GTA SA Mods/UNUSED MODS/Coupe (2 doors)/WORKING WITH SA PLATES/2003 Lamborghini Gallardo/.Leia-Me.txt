@@ -1,0 +1,25 @@
+Visite: https://central-mods.blogspot.com
+
+Créditos:
+- Autor: Desconhecido
+- Correções e edições: RetrKill0
+
+Diferença da Versão da TC GTA Brasil 0.2.1018
+
+- Corrigido valores env
+- Ajustado + a sombra (também tapado buraco nela)
+
+Instalação:
+Basta copiar a pasta para modloader (já inclui a linha abaixo)
+
+Instalação manual use essa linha
+-------------------------------------------------------------------------------
+
+carcols.dat:
+infernus, 6,6, 103,103, 23,23, 86,86, 0,0, 1,1, 3,3, 24,24
+
+-------------------------------------------------------------------------------
+
+conheça o projeto: https://www.mixmods.com.br/2018/09/TC-GTA-Brasil.html
+
+

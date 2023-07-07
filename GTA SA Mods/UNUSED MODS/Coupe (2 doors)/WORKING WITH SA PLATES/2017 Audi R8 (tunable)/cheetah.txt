@@ -1,0 +1,7 @@
+cheetah, 1,1, 0,0, 3,3, 8,8, 25,25, 86,86, 94,94, 6,6
+
+# OLD
+cheetah, nto_b_l, nto_b_s, nto_b_tw, exh_b_tr8, exh_b_tsr8
+
+# ALTERNATE
+cheetah, nto_b_l, nto_b_s, nto_b_tw, spl_b_bab_m, spl_b_bar_l, spl_b_bbb_m, spl_b_mar_m, spl_b_bbr_l, spl_b_mab_m, spl_b_bar_m, spl_b_bbr_m, wg_l_b_ssk
