@@ -1,0 +1,29 @@
+------------------------------------------------------------------
+Like Our Facebook Page: https://www.facebook.com/GTASanAndreasPhilippines/
+Join Our Facebook Group: https://www.facebook.com/groups/gtaphilippines/
+Visit Our Blog: https://www.GTAPINAS.blogspot.com
+
+
+-------------------------------------------------------------------
+
+1.Download GGMM here:http://www.gtagarage.com/mods/show.php?id=434
+
+2.Extract the GGMM Into Gta San Andreas main folder.
+
+3.Open GGMM
+
+4.Go to Weapons
+
+5.Search the name of the Weapon. (example gun_para.dff) 
+
+6.Rightclick the Model and Click Manual mod installer.
+
+7.Drag the DFF File from the Rar to DFF Models And Drag the TXD File into Txd Textures.
+
+8.Click Install. 
+
+Done!
+
+
+
+

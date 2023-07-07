@@ -1,0 +1,42 @@
+FILIPINO TOWN - PALOMINO CREEK 1 version 1.0.1
+
+------
+Towns in the Philippines comprises more than 1200. Each of those has characteristics and may distinguished by class.
+
+In this package, this includes a typical resturant in the Philippines, and the country's well-known bank, BDO.
+
+------
+TO INSTALL THE FILE:
+Use IMG TOOL, open "gta3.img". Then extract and replace "ce_bankalley3.txd" from my file. You may locate those on the folder "PALOMINO 1".
+(IF ANYTHING GOES WRONG, A BACK-UP FILE IS IN THIS PACKAGE. YOU MAY BROWSE IT FROM THE "BACKUP" FOLDER.)
+
+ENJOY!
+
+PAINTJOB BY: Bumbl_loid PRODUCTIONS
+
+-----
+SYSTEM USED:
+*GNU Image Manipulation Program ver-2.6 (GIMP 2.6)
+*TXD Workshop
+
+-----
+
+Any questions, suggestion, or simply you like this one, go to
+facebook.com/bumbl.loidproductions
+
+Like the page to be recognized. Thank you!
+
+-----
+All rights to the following:
+"BDO" are owned by SM Group of Companies.
+"Coca-Cola", the logo and merchandise are owned by Coca-Cola Bottlers Philippines Inc. Co-owned by San Miguel Corporation.
+
+R.A. 8293 (Intellectual Property Code of The Philippines), section 219 do allow to use any photographic materials like logo, seal, livery, and as such in any form of brodcast,
+as long as the certain owners are acknowledged and therefore are subject for "fair-use".
+
+The paintjob is mine. 
+WARNING! Do not REPOST this file without my permission. You may repaint or remodify using other logos, but not REPOST the same file. Thank You!
+
+
+TO GOD BE THE GLORY!
+all rights reserved, 2013

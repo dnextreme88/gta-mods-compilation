@@ -1,0 +1,70 @@
+GTA San Andreas Philippines Mods
+===========
+PAINTJOB BY:
+Bumbl_loid PRODUCTIONS
+https://www.facebook.com/bumbl.loidproductions
+beyondoneimagination.weebly.com
+===========
+
+MONTGOMERY TOWN (Filipino Theme)
+
+------
+Ang package na ito ay naglalaman ng mga sumusunod:
+
+ROBINSONS SUPERMARKET
+HON. VITALIANO D. AGAN MEMORIAL HOSPITAL
+COCA-COLA BOTTLERS PHILIPPINES INC. PLANT
+SHELL GASOLINE STATION
+EMCOR
+ONE NETWORK BANK
+M LHUILLIER PAWNSHOP
+THE GENERICS PHARMACY
+LBC DISTRIBUTION CENTER
+MANG TINAPAY
+NETOPIA INTERNET CAFE
+MINI STOP
+EAST COAST (EC) WAREHOUSE STORE
+TANDUAY WAREHOUSE
+
+
+MORTE GENERAL MERCHANDISE
+BEBAS INTERNET CAFE
+TORIBIO PAINT SUPPLY
+MARVIN'S HARDWARE
+BISTRO GRILL
+ANDREW'S KARAOKE-TV (KTV)
+
+
+-----
+PARA MA-INSTALL ANG NILALAMAN NITO:
+Gamitin ang IMG TOOL, buksan ang "gta3.img". I-extract at palitan ang mga TXD files mula sa "EDITED" folder.
+(KUNG MAY MANGYARING HINDI INAASAHAN, MAY BACK-UP FILE NA KASAMA DITO SA PACKAGE. HANAPIN LAMANG ANG "BACKUP" FOLDER.)
+
+
+NAWA'Y MASIYAHAN KAYO!
+
+PAGPINTA: Bumbl_loid PRODUCTIONS
+
+-----
+SISTEMANG GINAMIT:
+*GNU Image Manipulation Program ver-2.6 (GIMP 2.6)
+*TXD Workshop
+*IMG Tool
+
+-----
+Kung kayo may katanungan, suhestyon, o sa nagustohan ninyo ito, pumunta sa
+facebook.com/bumbl.loidproductions
+
+I-like ang page para kayo'y makilala. Salamat!
+
+-----
+Ang pagpinta ay aking gawa.
+BABALA! Huwag itong I-REPOST ng walang kaukulang permiso. Maari mo ito pinturahan muli at i-remodiohan ng ibang logos, pero huwag I-REPOST ang kaparehong nilalaman. Salamat.
+
+Lahat ng imahe sa file na ito ay may kani-kanilang pag-aari.
+
+R.A. 8293 (Intellectual Property Code of The Philippines), section 219 ay pumapayag na gumamit ng photographic materials gaya ng logo, selyo, disenyo, at sa kaparehong uri sa kahit anong uri ng pagpapahayag,
+pero ng may pagpapakilala sa mga nagmamay-ari nito at datapuwat, matawag ito na "fair-use".
+
+TO GOD BE THE GLORY!
+all rights reserved, 2013

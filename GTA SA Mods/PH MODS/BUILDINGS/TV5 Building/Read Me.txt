@@ -1,0 +1,6 @@
+open ur gta3 with img tool
+replace 
+sunset02_law2.txd
+tvstudio_law2.txd
+
+(c)RobiMods2014
