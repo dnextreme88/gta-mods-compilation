@@ -1,0 +1,50 @@
+
+
+
+
+
+
+
+jeepney for the Pinoy player
+
+jeepney in progress...
+
+
+
+
+
+
+
+
+
+handling
+
+
+
+BURRITO   2600.0 10202.8 2.5 0.0 0.0 -0.7 90 0.75 0.90 0.48 5 265.0 38.0 10.0 4 D 12.0 0.50 1 35.0 1.0 0.13 0.0 0.20 -0.06 0.5 0.3 0.58 0.33 26000 	4109 	702202 	0 	3 	13
+
+
+vehicle ide
+
+482, 	burrito, 	burrito, 	car, 		BURRITO,	BURRITO, 	van,	poorfamily,	4,	0,	0,		-1, 0.8, 0.8,		-1
+
+
+color
+
+
+burrito, 47,1, 79,1, 0,1, 1,1, 3,1, 6,1, 34,1, 26,1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
