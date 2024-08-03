@@ -1,0 +1,11 @@
+#carcols.dat
+crx, 1,0, 2,0, 3,0, 4,0, 6,0, 7,0, 65,0
+
+#carmods.dat
+crx, nto_b_l, nto_b_s, nto_b_tw, bnt_b_sc_p_m, bntl_b_ov, exh_b_l, exh_b_t, rf_b_sc_r, spl_b_bbb_m, spl_b_bab_m, spl_b_mab_m, spl_b_bar_m, wg_l_b_ssk
+
+#handling.cfg
+CRX          1026.0 2261.9 2.4 0.0 0.0 -0.10 50 0.85 0.85 0.5 5 210.0 26.0 5.0 F P 15.0 0.45 0 30.0 1.4 0.1 0.0 0.27 -0.12 0.5 0.0 0.25 0.50 25000 c0000000 00C00000 1 1 0
+
+#vehicles.ide
+3143,	crx,	crx,	car,	CRX,	CRX,	null,	executive,	10,	0,	0,	-1,	0.64,	0.64,	0
