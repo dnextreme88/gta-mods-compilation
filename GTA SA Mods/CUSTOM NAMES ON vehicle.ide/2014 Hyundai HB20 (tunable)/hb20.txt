@@ -1,0 +1,11 @@
+#carcols.dat
+hb20, 6,6, 14,14, 16,16, 18,18, 37,37, 53,53, 93,93
+
+#carmods.dat
+hb20, nto_b_l, nto_b_s, nto_b_tw, bnt_b_sc_m, bnt_b_sc_l, bnt_b_sc_p_m, bnt_b_sc_p_l, rf_b_sc_r, spl_b_bab_m, spl_b_bar_l, spl_b_bbb_m, spl_b_mar_m, spl_b_bbr_l, spl_b_mab_m, spl_b_bar_m, spl_b_bbr_m, wg_l_b_ssk
+
+#handling.cfg
+HB20         1800.0    4350.0   2.0    0.0 0.0  0.0  70  0.70 0.8  0.52 	4 160.0 18.0 15.0 R P 	5.4   0.60 0 30.0  	1.1  0.15  0.0   0.32 -0.14 0.5  0.0		0.26 0.54 19000 	40000000	0			0  3	0
+
+#vehicles.ide
+3148,	hb20,	hb20,	car,	HB20,	HB20,	null,	normal,	10,	0,	0,	-1,	0.7,	0.7,	0

@@ -1,0 +1,11 @@
+#carcols.dat
+fit, 5,5, 19,19, 41,41, 61,61, 95,95, 114,114, 117,117
+
+#carmods.dat
+fit, nto_b_l, nto_b_s, nto_b_tw, exh_b_l, exh_b_m
+
+#handling.cfg
+FIT          1600.0 5848.3 2.5 0.0 0.2 -0.1 85 0.60 0.80 0.50 5 180.0 17.0 15.0 4 D 5.5 0.6 0 30.0 1.4 0.1 0.0 0.35 -0.08 0.55 0.0 0.2 0.75 16000 20 0 1 3 0
+
+#vehicles.ide
+3146,	fit,	fit,	car,	FIT,	FIT,	null,	normal,	10,	0,	0,	-1,	0.80,	0.80,	0
